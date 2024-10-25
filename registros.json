@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+        {
+            "user": "sol",
+            "password": "1234"
+        },
+        {
+            "user": "emi",
+            "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+        },
+        {
+            "user": "rubenrm",
+            "password": "796405055f521c4119b9dbc1a8d1874a29d02af06729dc3b350928943c2b0397"
+        }
+    ]
+}
